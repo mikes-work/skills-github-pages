@@ -1,5 +1,5 @@
 ---
-title: Welcome to my story
-date: Sometime today
+title: Something to do 
+date: 12/26/2024
 ---
 
